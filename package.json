@@ -1,0 +1,24 @@
+{
+  "name": "filepick",
+  "version": "0.0.1",
+  "description": "File Picker for Command Line Applications",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wallace Coelho <wac.almeida@gmail.com>",
+  "keywords": [
+    "filebrowser",
+    "file",
+    "picker",
+    "browser",
+    "cli"
+  ],
+  "repository": "wac2007/filepick",
+  "license": "ISC",
+  "dependencies": {
+    "clear": "0.0.1",
+    "inquirer": "^3.2.1",
+    "prompt": "^1.0.0"
+  }
+}
